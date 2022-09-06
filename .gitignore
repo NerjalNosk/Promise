@@ -114,13 +114,6 @@ bin/
 
 # Maven
 
-!target
-!target/**.jar
-
-# javadoc
-**.html
-**.css
-**.js
-target/apidocs
+target
 
 bin
