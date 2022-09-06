@@ -10,10 +10,9 @@ implementations can be made.
 
 **Import the API**
 
-Use [Jitpack](https://jitpack.io/) to import the
-API in your own project.
+### With [Jitpack](https://jitpack.io/) 
 
-**With Maven**
+**In a Maven project**
 
 ```xml
 
@@ -41,7 +40,7 @@ API in your own project.
 </project>
 ```
 
-**With Gradle**
+**In a Gradle project**
 
 ```groovy
 repositories {
@@ -52,3 +51,11 @@ dependencies {
     implementation "com.github.NerjalNosk:Promise:1.0.0"
 }
 ```
+
+### With the GitHub package system
+
+Please refer to the [Maven](
+https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-apache-maven-registry#installing-a-package)
+and [Gradle](
+https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-gradle-registry#using-a-published-package)
+pages for more information

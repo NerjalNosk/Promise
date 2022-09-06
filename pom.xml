@@ -102,9 +102,9 @@
 
     <distributionManagement>
         <repository>
-            <id>internal</id>
-            <name>Local Repo</name>
-            <url>file://${project.build.directory}/JsonLight</url>
+            <id>github</id>
+            <name>Github package for Java Promise API</name>
+            <url>https://maven.pkg.github.com/NerjalNosk/Promise</url>
         </repository>
     </distributionManagement>
 </project>
