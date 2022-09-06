@@ -8,11 +8,11 @@ implementations can be made.
 
 ---
 
-**Import the API**
+### **Import the API**
 
-### With [Jitpack](https://jitpack.io/) 
+**With [Jitpack](https://jitpack.io/)** 
 
-**In a Maven project**
+*In a Maven project*
 
 ```xml
 
@@ -40,7 +40,7 @@ implementations can be made.
 </project>
 ```
 
-**In a Gradle project**
+*In a Gradle project*
 
 ```groovy
 repositories {
@@ -52,7 +52,7 @@ dependencies {
 }
 ```
 
-### With the GitHub package system
+**With the GitHub package system**
 
 Please refer to the [Maven](
 https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-apache-maven-registry#installing-a-package)
